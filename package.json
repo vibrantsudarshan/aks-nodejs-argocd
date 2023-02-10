@@ -11,7 +11,7 @@
     "aks",
     "node"
   ],
-  "author": "Avik Kundu",
+  "author": "original: Avik Kundu, contributor: Sudarshan Chandrashekar ",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.17.2",
